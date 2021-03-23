@@ -1,6 +1,6 @@
 {
   "name": "kc-fwalk",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "[nodejs] Return files in path.",
   "main": "index.js",
   "repository": {
