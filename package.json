@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/node-fwalk.git"
+    "url": "https://github.com/kaisarsnippets/node-fwalk.git"
   },
   "keywords": [
     "get",
@@ -19,7 +19,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/node-fwalk/issues"
+    "url": "https://github.com/kaisarsnippets/node-fwalk/issues"
   },
-  "homepage": "https://github.com/KaisarCode/node-fwalk"
+  "homepage": "https://github.com/kaisarsnippets/node-fwalk"
 }
